@@ -8,3 +8,5 @@ const firstnameuser = prompt("Come ti chiami?" , "Riccardo");
 console.log(firstnameuser);
 // add prompt secondnameuser
 const secondnameuser = prompt("Qual'è il tuo cognome?" , "Pinto");
+// check second-name-user
+console.log(secondnameuser);
