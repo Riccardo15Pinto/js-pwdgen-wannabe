@@ -12,3 +12,5 @@ const secondnameuser = prompt("Qual'è il tuo cognome?" , "Pinto");
 console.log(secondnameuser);
 // add prompt fav-color-user
 const favcoloruser = prompt("Qual'è il tuo colore preferito?" , "Blu");
+// check fav-color-user
+console.log(favcoloruser);
